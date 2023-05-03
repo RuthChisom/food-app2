@@ -24,7 +24,7 @@ const Section = ({onPress, title, myStyle}) => {
                 style={{marginRight: 4, justifyContent:'center'}}
                 onPress={onPress}
             >
-                <Text style={{color:'green', fontSize:12}}>See All</Text>
+                <Text style={{color:'#00BFFF', fontSize:12}}>See All</Text>
             </TouchableOpacity>
         </View>
     </View>

@@ -42,7 +42,7 @@ const FoodItem = (food) => {
         </View>
         <View style={{padding:12}}>
             <Text style={{fontSize:15, fontWeight: 700}}>{food.food.shorttitle?food.food.shorttitle:food.food.title}</Text>
-            <Text style={{color:'green', fontWeight: 600}}>${food.food.price}</Text>
+            <Text style={{color:'#00BFFF', fontWeight: 600}}>${food.food.price}</Text>
         </View>
       
     </View>

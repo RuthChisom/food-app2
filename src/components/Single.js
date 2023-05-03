@@ -28,7 +28,7 @@ const Single = () => {
                 <Text style={{fontWeight:'bold'}}>4.4</Text>
             </View>
         </View>
-        <Text style={{fontWeight:'bold', color:'green', padding:10}}>$4.2</Text>
+        <Text style={{fontWeight:'bold', color:'#00BFFF', padding:10}}>$4.2</Text>
     </View>
   )
 }
