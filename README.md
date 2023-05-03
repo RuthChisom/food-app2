@@ -6,4 +6,4 @@ Original View
 
 
 My View
-<img src="https://github.com/RuthChisom/food-app2/blob/master/src/assets/images/final-view.png"/>
+<img src="https://github.com/RuthChisom/food-app2/blob/master/src/assets/images/final-view.jpg"/>
